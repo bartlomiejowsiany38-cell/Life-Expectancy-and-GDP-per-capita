@@ -1,4 +1,4 @@
-# Life-Expectancy-and-GDP-per-capita
+# Life Expectancy and GDP per capita
 
 ## Overview
 In this project I try to trace a relationship between a country's wealth and the life expectancy of its population — and if there is one, what shape does that relationship take?
